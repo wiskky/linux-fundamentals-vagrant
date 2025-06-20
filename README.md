@@ -5,4 +5,4 @@
 3. Ubuntu
 
     
-This assignment was performed on Ubuntu using Vagrant to provision the OS.
+This task was performed on Ubuntu using Vagrant to Illustrate key Linux commands and concepts.
